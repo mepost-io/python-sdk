@@ -7,7 +7,7 @@ The `mepost-sdk` is a Python library designed to simplify interactions with the 
 Install this package using pip:
 ```bash
 pip install mepost-sdk
-
+```
 
 ## Usage
 Here is a quick example:
