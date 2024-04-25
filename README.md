@@ -16,7 +16,7 @@ Installation
 To install the Mepost Python SDK, simply use pip:
 
 ```bash
-pip install mepost-python-sdk
+pip install mepost-sdk
 ```
 
 Ensure you have Python 3.6 or later installed on your system.
