@@ -2,18 +2,18 @@ from setuptools import setup, find_packages
 
 setup(
     name='mepost-sdk',
-    version='0.1.0',
+    version='1.0.4',
     packages=find_packages(),
     description='A Python SDK for interacting with the Mepost API.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author='https://github.com/mepost-io',
+    author='mepost',
     author_email='info@mepost.io',
     license='MIT',
     install_requires=[
         'requests'
     ],
-    url='https://github.com/yourusername/mepost-sdk',
+    url='https://github.com/mepost-io/python-sdk',
     keywords='mepost, email, sdk, api',
     classifiers=[
         'Development Status :: 3 - Alpha',
